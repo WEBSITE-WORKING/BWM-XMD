@@ -60973,12 +60973,12 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
-contact            : ibraahadams@gmail.com
-Github             : https://github.com/devibraah
-my youtube channel : Youtube.com/@ibrahimaitech
+Author             : ArYan-Arohi
+contact            : singlearyan8@gmail.com
+Github             : https://github.com/ARYAN-BOT-404
+my youtube channel : Youtube.com/@aryanraj-404
 
-subcribe my youtube Channel to learn ethical Hacking ^_^
+subcribe my youtube Channel pleace I am ArYan and my girl Arohi ^_^
 """
 
 import sys
