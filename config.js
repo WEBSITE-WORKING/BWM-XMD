@@ -15193,14 +15193,14 @@ const databasePath = path.join(__dirname, './database.db');
 const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
-module.exports = { session: process.env.SESSION_ID || '',
+module.exports = { session: process.env.SESSION_ID || 'Bmwmd$be0DHV4p',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "Ibrahim Adams",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || " Ibrahim Adams",              
+    OWNER_NAME: process.env.OWNER_NAME || "itz ArYan my girl Arohi",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "ArYan",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
-    BOT : process.env.BOT_NAME || 'BMW_MD',
-    URL : process.env.BOT_MENU_LINKS || 'https://telegra.ph/file/17c83719a1b40e02971e4.jpg',
+    BOT : process.env.BOT_NAME || 'miss Arohi',
+    URL : process.env.BOT_MENU_LINKS || 'https://i.imgur.com/BSSIs0h.jpeg',
     MODE: process.env.PUBLIC_MODE || "yes",
     PM_PERMIT: process.env.PM_PERMIT || 'yes',
     HEROKU_APP_NAME : process.env.HEROKU_APP_NAME,
@@ -15212,7 +15212,7 @@ module.exports = { session: process.env.SESSION_ID || '',
     ADM : process.env.ANTI_DELETE_MESSAGE || 'no',
     DATABASE_URL,
     DATABASE: DATABASE_URL === databasePath
-        ? "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway" : "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway",
+        ? "https://github.com/ARYAN-BOT-404/Telegram-bot-",
    
 };
 let fichier = require.resolve(__filename);
