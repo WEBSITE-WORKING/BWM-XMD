@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BMW MD
+ArYan
 
-Made by dev Ibrahim Adams
+Made by ArYan
 
 
                  _.u[[/;:,.         .odMMMMMM'
